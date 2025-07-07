@@ -13,6 +13,7 @@ public class Addeven {
             if(a%2==0){
                 sum=sum+a;
                 System.out.printf("the sum of even no is %d",sum);
+                System.out.printf("the sum of even no is %d",sum);
             }
             a++;
         }
